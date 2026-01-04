@@ -10,3 +10,5 @@
 
 Добавил локальный конфликт
 
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINov4ZZJY3LVEqw650EtWI5+uM9HnHvpH+dW4LecTI/j Димон@DESKTOP-PAGT4I3
